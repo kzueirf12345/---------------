@@ -117,11 +117,6 @@ FieldType Game::BestResult(FieldType (&batlefield)[3][3], int m, FieldType type)
         arr[i] = BestResult(new_batlefield, m - 1, FieldType(type % 2 + 1));
     }
 
-    for (int i = 0; i < p.second; ++i) {
-        std::cout << arr[i] << " ";
-    }
-    std::cout << std::endl;
-
     if ((m - 1) % 2 == 0) {
         FieldType ans = _player_type_field;
         bool flag_draw = false;
