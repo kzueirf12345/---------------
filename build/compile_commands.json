@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/urodish/programming/инфа/Крестики-нолики/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++20 -o CMakeFiles/main.dir/main.cpp.o -c /home/urodish/programming/инфа/Крестики-нолики/main.cpp",
+  "file": "/home/urodish/programming/инфа/Крестики-нолики/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/urodish/programming/инфа/Крестики-нолики/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++20 -o CMakeFiles/main.dir/Classes/Game.cpp.o -c /home/urodish/programming/инфа/Крестики-нолики/Classes/Game.cpp",
+  "file": "/home/urodish/programming/инфа/Крестики-нолики/Classes/Game.cpp",
+  "output": "CMakeFiles/main.dir/Classes/Game.cpp.o"
+}
+]
