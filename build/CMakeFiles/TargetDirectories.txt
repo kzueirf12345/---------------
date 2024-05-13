@@ -1,3 +1,0 @@
-/home/urodish/programming/инфа/Крестики-нолики/build/CMakeFiles/main.dir
-/home/urodish/programming/инфа/Крестики-нолики/build/CMakeFiles/edit_cache.dir
-/home/urodish/programming/инфа/Крестики-нолики/build/CMakeFiles/rebuild_cache.dir
